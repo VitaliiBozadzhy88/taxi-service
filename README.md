@@ -5,7 +5,7 @@
 `A simple web-application Taxi-Service, where is implemented ability to work and 
 manipulate with data (used as example taxi service).
 There you can add new car, new driver, 
-manage and edit data, that already you 🫵 created before.`
+manage and edit data, that already you created before.`
 
 ## Features:
 
